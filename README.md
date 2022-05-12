@@ -2,7 +2,7 @@
 
 <!--
 **ord30/ord30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 .+..+.+.+..+.+.....++...+.+.+..+.
 - 🔭 I’m currently working on India
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me:  
 - 😄 Pronouns: they/him
 - ⚡ Fun fact: i'm a trash singer
--->
